@@ -80,6 +80,5 @@ int main()
 
         printf("Remaining chocolates: %d\n", chock);
     }
-
     return 0;
 }
