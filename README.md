@@ -137,7 +137,7 @@ Player 1 gets chilli [LOST]
 ```text
 chilli-chocolate-game/
 │
-├── chilli_chocolate_game.c
+├── chocochilli_game.c
 └── README.md
 ```
 
